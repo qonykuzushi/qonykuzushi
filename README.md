@@ -30,8 +30,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qonythazu)
-✦  open for IT freelance & graphic design collabs  ✦
+✦[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qonythazu)✦
 
 </div>
 
